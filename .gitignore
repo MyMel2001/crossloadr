@@ -34,3 +34,6 @@ pids
 # OS
 .DS_Store
 Thumbs.db 
+
+# Logs
+crossloadr.log

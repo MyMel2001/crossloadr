@@ -9,4 +9,4 @@ nvm use 18
 npm i
 
 
-npm run start >crossloadr.log 2>&1 &
+npm run dev >crossloadr.log 2>&1 &
